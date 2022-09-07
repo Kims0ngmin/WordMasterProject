@@ -40,7 +40,7 @@ public class WordManager {
         while (true) {
             int menu = selectMenu();
             if(menu == 0) {
-                System.out.println("이제 종료하겠습니다. 다음에 또 오실거죠? 다음에 봅시다~");
+                System.out.println("이제 종료하겠습니다. 다음에 또 오실거죠? 다음에 봅시다~ ");
                 break;
             }
             if(menu == 4) {

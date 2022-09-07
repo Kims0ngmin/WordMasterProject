@@ -39,7 +39,10 @@ public class WordManager {
     public void start() {
         while (true) {
             int menu = selectMenu();
-            if(menu == 0) break;
+            if(menu == 0) {
+                System.out.println("이제 종료하겠습니다. 다음에 또 오실거죠?");
+                break;
+            }
             if(menu == 4) {
                 wordCRUD.addWord();
             }

@@ -3,15 +3,17 @@
 1. [4. 단어 추가]
 
 
-![스크린샷 2022-09-07 오후 10 25 06](https://user-images.githubusercontent.com/105695977/188890035-14009431-fade-4eef-914a-352b971ce0fd.png)
+![스크린샷 2022-09-07 오후 10 38 30](https://user-images.githubusercontent.com/105695977/188893142-64df24b8-6809-4361-bf3b-b64e380c44e2.png)
 
 2. [1. 모드 단어 보기]
 
 
-![스크린샷 2022-09-07 오후 10 24 55](https://user-images.githubusercontent.com/105695977/188890265-965fe85a-8417-4a10-a1dc-2a1be07737c4.png)
+![스크린샷 2022-09-07 오후 10 39 03](https://user-images.githubusercontent.com/105695977/188893144-1e106811-ad2c-494d-afa2-7555c72243e5.png)
 
 
 3. [0. 나가기]
 
 
-![스크린샷 2022-09-07 오후 10 25 19](https://user-images.githubusercontent.com/105695977/188890431-c80a6f49-1371-4fd9-b035-2713dc7c5cad.png)
+![스크린샷 2022-09-07 오후 10 39 29](https://user-images.githubusercontent.com/105695977/188893117-06b96c4e-c7e0-434c-a2c6-66cd63f76cea.png)
+
+

@@ -37,17 +37,33 @@ public class WordManager {
         return s.nextInt();
     }
     public void start() {
+        wordCRUD.loadFile();
         while (true) {
             int menu = selectMenu();
             if(menu == 0) {
                 System.out.println("이제 종료하겠습니다. 다음에 또 오실거죠? 다음에 봅시다~ ");
                 break;
             }
-            if(menu == 4) {
-                wordCRUD.addWord();
-            }
-            else if(menu == 1){
+            if(menu == 1){
                 wordCRUD.listAll();
+            }
+            else if(menu == 2) {
+                wordCRUD.serchLevel();
+            }
+            else if(menu == 3) {
+                wordCRUD.serchWord();
+            }
+            else if(menu == 4) {
+                wordCRUD.addItem();
+            }
+            else if(menu == 5){ //Update
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6){ // Delete
+                wordCRUD.deleteItem();
+            }
+            else if(menu == 7){ // Delete
+                wordCRUD.saveFile();
             }
         }
     }
